@@ -1,1 +1,4 @@
-This folder stores the trained models, which are trained from DocImgEN and DocImgCN training sets. And interested researchers can download it and conduct experiments.
+This folder stores the trained models, which are trained from DocImgEN and DocImgCN training sets.
+And interested researchers can download it and conduct experiments.
+The model data is relatively large and cannot be uploaded to github. 
+Maybe you can try downloading from this link.
