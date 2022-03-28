@@ -168,7 +168,7 @@ def build_model(encoder,
       Embedding strength adjustment strategy is meant to change the factor to get high visual quality of the document image.
       you can set the factor value before the mode training, or the default value is 1.0, 
       the more detail you can read the paper from the link: 
-      
+      https://www.semanticscholar.org/paper/A-Screen-Shooting-Resilient-Document-Image-Scheme-Ge-Xia/07bc4097d3b973a09fb557cb00d5fac0f6da11c1
     """
     encoded_image = image_input + factor * residual
     # encoded_warped
